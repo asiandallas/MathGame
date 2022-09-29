@@ -11,5 +11,5 @@ the same question until he gives the correct answer. After he gives a correct an
 the queue.
 
 ## Compilation
-Compile: `g++ -pthread game.cpp queue.cpp`
-Execution: `./a.out`
+- Compile: `g++ -pthread game.cpp queue.cpp`
+- Execution: `./a.out`
